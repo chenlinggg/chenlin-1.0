@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:YuanFeng;
+    src: url(../font-family/YunFengHanChanTi-2.ttf);
+}
+/* 常用的字体的大小 */
+.font-YuanFeng-22{
+    font-family: YuanFeng;
+    font-size: 22px;
+}
+
+/* 版心居中 */
+.center-banxin{
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+
+ 
